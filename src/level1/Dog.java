@@ -10,7 +10,7 @@ public class Dog {
 		System.out.println("|\"^\"`    |");
 		System.out.println("||_/=\\\\__|");
 		
-		
+		  
 		 
 		  
 	}
